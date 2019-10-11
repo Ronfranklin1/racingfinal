@@ -1,0 +1,38 @@
+.character {
+	position: absolute;
+	top: 200px;
+	width: 100px;
+}
+
+#aiCar {
+	margin-top: 490px;
+	width: 150px;
+}
+
+#playerCar {
+	margin-top: 370px;
+	/*height: 30px;*/
+	width: 150px;
+}
+
+html{
+	background-color: indianred;
+}
+
+#race{
+	width: 100vw;
+	height: 400px;
+}
+
+#track{
+	width: 100vw;
+	height: 355px;
+}
+
+#body{
+	background-color: indianred;
+}
+
+#center{
+	text-align: center;
+}
